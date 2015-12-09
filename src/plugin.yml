@@ -1,0 +1,5 @@
+name: IC2PersonalAutoPrivate
+version: 1.0
+main: theandrey.ic2personalautoprivate.IC2PersonalFixPlugin
+author: TheAndrey
+description: Автоприват персональных блоков IndustrialCraft2
